@@ -1,0 +1,4 @@
+repository "snow@couthz@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
